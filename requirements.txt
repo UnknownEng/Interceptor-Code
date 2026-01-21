@@ -1,0 +1,4 @@
+opencv-python>=4.5
+websockets>=10.0
+numpy>=1.20
+simple-pid>=2.0
